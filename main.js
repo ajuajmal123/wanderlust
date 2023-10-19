@@ -1,0 +1,12 @@
+let introLineAppend = document.querySelector('span');
+introLineAppend.innerText += "W";
+let booking = document.getElementById('b');
+booking.innerText += "B";
+let package = document.getElementById('p');
+package.innerText += "P";
+let service = document.getElementById('s');
+service.innerText += "S";
+let about = document.getElementById('a');
+about.innerText += "Us";
+let footer = document.getElementById('f');
+footer.innerText += "W";
